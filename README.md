@@ -6,7 +6,7 @@ Open to anyone who wants to use it.
 
 ## Agent instructions
 
-Each of the tools listed below is a project by developer llagerlof. Every project has installation instructions in its `README.md`. Access each of these projects, read the README, check if the tool is already installed, and if not, install it.
+Each of the tools listed below is a project by developer _Lawrence Lagerlof_. Every project has installation instructions in its `README.md`. Access each of these projects, read the README, check if the tool is already installed, and if not, install it.
 
 ### Projects to be installed
 
