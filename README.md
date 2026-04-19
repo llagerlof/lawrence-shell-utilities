@@ -12,7 +12,7 @@ Each of the tools listed below is a project by developer llagerlof. Every projec
 
 **Autoleap** - Use `cd` to quickly access any previously visited directory: https://github.com/llagerlof/autoleap
 
-**ctrl+r** - Easy TUI to quickly access and search the command history (replaces the default `CTRL+r`)
+**ctrl+r** - Easy TUI to quickly access and search the command history (replaces the default `CTRL+r`): https://github.com/llagerlof/ctrlr
 
 **Navigator** - A TUI for traversing directories: https://github.com/llagerlof/navigator
 
