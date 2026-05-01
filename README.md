@@ -19,3 +19,5 @@ Each of the tools listed below is a project by developer _Lawrence Lagerlof_. Ev
 **e** - A quick way to edit the last text file created in the current directory: https://github.com/llagerlof/e
 
 **Trash** - A trash bin for the terminal: https://github.com/llagerlof/trash
+
+**serve** - A tiny shell script web server for easy file and directory sharing: https://github.com/llagerlof/serve
