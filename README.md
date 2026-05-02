@@ -27,3 +27,5 @@ If you are running as root, follow the installation instructions in each project
 **serve** - A tiny shell script web server for easy file and directory sharing: https://github.com/llagerlof/serve
 
 **findgo** - `findgo` is a small bash helper that searches recursively from the current directory for the first file or directory whose basename matches a target name exactly: https://github.com/llagerlof/findgo
+
+**pacwoman** - Search tool for packages (Arch-based systems): https://github.com/llagerlof/pacwoman
