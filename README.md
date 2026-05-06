@@ -8,9 +8,9 @@ Open to anyone who wants to use it.
 
 Each of the tools listed below is a project by developer _Lawrence Lagerlof_. Every project has installation instructions in its `README.md`. Access each of these projects, read the README, check if the project is already installed in a proper location, and if not, install it.
 
-The preferred location for installing all the tools below is inside the normal user's home directory, not the root home directory. Also, each project should preferably be cloned into `/home/<normal-user>/github.com/llagerlof/<repository-name>`.
+The preferred location for installing all the tools below is inside the normal user's home directory, not the root home directory. Also, each project should preferably be cloned into `/home/<normal-user>/repos/`.
 
-If you are running as root, follow the installation instructions in each project's README, but make the programs globally available by creating symbolic links in `/usr/local/bin/` if necessary. If non-root, install them into the normal user space as described above.
+If you are running as root, follow the installation instructions in each project's README, but make the programs globally available by creating symbolic links in `/usr/local/bin/` if necessary. If non-root, install them into the normal user space as described above and create a symbolic link in `~/.local/bin/` if necessary.
 
 ### Projects to be installed
 
