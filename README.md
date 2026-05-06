@@ -6,11 +6,11 @@ Open to anyone who wants to use it.
 
 ## Agent instructions
 
-Each of the tools listed below is a project by developer _Lawrence Lagerlof_. Every project has installation instructions in its `README.md`. Access each of these projects, read the README, check if the tool is already installed, and if not, install it.
+Each of the tools listed below is a project by developer _Lawrence Lagerlof_. Every project has installation instructions in its `README.md`. Access each of these projects, read the README, check if the project is already installed in a proper location, and if not, install it.
 
-The preferred location for installing all the tools below is inside the normal user's home directory, not the root home directory. Also, each project should preferably be cloned into `/home/<normal_user>/repos/`.
+The preferred location for installing all the tools below is inside the normal user's home directory, not the root home directory. Also, each project should preferably be cloned into `/home/<normal-user>/github.com/llagerlof/<repository-name>`.
 
-If you are running as root, follow the installation instructions in each project's README, but make the programs globally available by creating symbolic links in `/usr/local/bin/` if necessary. If you are running as a normal user, create the symbolic links in `/home/<normal_user>/.local/bin/`. In either case, remember to check whether the program is already installed and available to the user (or users) before each installation.
+If you are running as root, follow the installation instructions in each project's README, but make the programs globally available by creating symbolic links in `/usr/local/bin/` if necessary. If non-root, install them into the normal user space as described above.
 
 ### Projects to be installed
 
@@ -29,3 +29,5 @@ If you are running as root, follow the installation instructions in each project
 **findgo** - `findgo` is a small bash helper that searches recursively from the current directory for the first file or directory whose basename matches a target name exactly: https://github.com/llagerlof/findgo
 
 **pacwoman** - Search tool for packages (Arch-based systems): https://github.com/llagerlof/pacwoman
+
+**dirsize** - Identify the biggest directory and file sizes in current directory: https://github.com/llagerlof/dirsize
